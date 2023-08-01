@@ -8,7 +8,7 @@ this is a test
 <button id="project-button"><a href="Resume-Andres Perez Martinez.pdf">Resume</a></button>
 
 <button id="project-button"><a href="Use_Machine_Learning_to_Improve_Treatment_Targeting_in_Farmer_Training.pdf">Comparing ML models to
-Improve Treatment Targeting in Farmer Training(Project Collaboration with the World Bank)</a></button>
+Improve Treatment Targeting in Farmer Training (Project Collaboration with the World Bank)</a></button>
 
 <button id="project-button"><a href="House Prices in San Diego and Sacramento.pdf">Time Series Analysis Project</a></button>
 
