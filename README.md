@@ -9,7 +9,7 @@ this is a test
 
 <button id="project-button"><a href="Use_Machine_Learning_to_Improve_Treatment_Targeting_in_Farmer_Training.pdf">Using Machine Learning to Improve Treatment Targeting in Farmer Training (Project Collaboration with the World Bank)</a></button>
 
-<button id="project-button"><a href="ML_Analysis.ipynb">Using Machine Learning to Improve Treatment Targeting in Farmer Training Code (Project Collaboration with the World Bank)</a></button>
+<button id="project-button"><a href="ML_Analysis.html">Using Machine Learning to Improve Treatment Targeting in Farmer Training Code (Project Collaboration with the World Bank)</a></button>
 
 <button id="project-button"><a href="House Prices in San Diego and Sacramento.pdf">Time Series Analysis Project</a></button>
 
