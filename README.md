@@ -1,4 +1,5 @@
-# AndresPerezMtz.github.io
+# AndresPerezMtz
+
 Welcome to my Portfolio! This webpage showcases a collection of my data analytics/science projects, demonstrating my expertise and passion for extracting valuable insights from data. As a data enthusiast, I have explored various datasets, applied advanced analytical techniques, and developed machine-learning models to solve real-world problems.
 
 
