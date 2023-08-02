@@ -41,7 +41,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 <html>
 <head>
-  <title>Centered Buttons</title>
+  <title>Buttons Example</title>
   <style>
     /* Center the container element */
     .container {
