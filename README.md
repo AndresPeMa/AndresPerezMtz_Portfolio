@@ -16,13 +16,13 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 <button id="project-button"><a href="THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA.pdf">Undergraduate Thesis</a></button>
 
 
-
+<!DOCTYPE html>
 <html>
 <head>
   <title>Button Example</title>
   <style>
     /* Styles for the button with "project-button" id */
-    #project-button: hover {
+    #project-button {
       background-color: rgba(171, 235, 198);
       color: white;
       font-size: 16px;
@@ -31,13 +31,23 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
       border-radius: 5px;
       cursor: pointer;
     }
-        /* Additional styles for the button when hovered */
-    #project-button:hover {
-      background-color: rgba(171, 235, 198);
+
+    /* Center the button in the middle of the page */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
     }
   </style>
 </head>
+<body>
+  <button id="project-button">Hover Me</button>
+</body>
 </html>
+
+
 
 
 <html>
