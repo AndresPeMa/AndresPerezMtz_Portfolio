@@ -23,7 +23,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
   <style>
     /* Styles for the button with "project-button" id */
     #project-button {
-      background-color: blue;
+      background-color: rgba(171, 235, 198);
       color: white;
       font-size: 16px;
       padding: 10px 20px;
@@ -38,8 +38,5 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
     }
   </style>
 </head>
-<body>
-  <button id="project-button">Click me</button>
-</body>
 </html>
 
