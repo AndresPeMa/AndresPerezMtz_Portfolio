@@ -1,5 +1,5 @@
 title: Cayman theme
 description: This portfolio reflects my data analytics/science journey, showcasing projects that exhibit my adeptness in data manipulation, statistical analysis software, exploratory data analysis, and creating interactive visualizations.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
