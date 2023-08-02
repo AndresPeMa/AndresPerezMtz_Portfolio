@@ -16,4 +16,30 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 <button id="project-button"><a href="THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA.pdf">Undergraduate Thesis</a></button>
 
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Button Example</title>
+  <style>
+    /* Styles for the button with "project-button" id */
+    #project-button {
+      background-color: blue;
+      color: white;
+      font-size: 16px;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    /* Additional styles for the button when hovered */
+    #project-button:hover {
+      background-color: darkblue;
+    }
+  </style>
+</head>
+<body>
+  <button id="project-button">Click me</button>
+</body>
+</html>
 
