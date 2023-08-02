@@ -39,6 +39,22 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 </html>
 
 
+<html>
+<head>
+  <title>Centered Buttons</title>
+  <style>
+    /* Center the container element */
+    .container {
+      text-align: center;
+    }
+
+    /* Style for the buttons */
+    .container button {
+      /* Your button styles here */
+      margin: 5px; /* Optional: Add some space between buttons */
+    }
+  </style>
+</head>
 
 <html>
 <head>
