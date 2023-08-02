@@ -39,3 +39,17 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 </head>
 </html>
 
+
+<html>
+<head>
+  <title>Contact Me</title>
+</head>
+<body>
+  <!-- Your page content goes here -->
+
+  <!-- Button at the bottom of the page -->
+  <div class="contact-button">
+    <a href="mailto:your_email@example.com">Contact Me</a>
+  </div>
+</body>
+</html>
