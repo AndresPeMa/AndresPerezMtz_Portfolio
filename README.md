@@ -31,6 +31,10 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
       border-radius: 5px;
       cursor: pointer;
     }
+        /* Additional styles for the button when hovered */
+    #project-button:hover {
+      background-color: rgba(171, 235, 198);
+    }
   </style>
 </head>
 </html>
