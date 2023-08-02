@@ -13,6 +13,20 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 <button id="project-button"><a href="House Prices in San Diego and Sacramento.pdf">Time Series Analysis Project</a></button>
 
+### THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA
+
+##### Project Description: 
+
+This individual project consisted of picking a topic of our interest for which we needed to research previous literature, look for and gather enough data to run tests (OLS regression, statistical tests), analyze it, write a report, and present it to the Sacramento State economics faculty.
+
+#### Personal Challenges:
+
+> This was the very first big project I had to do individually. To my surprise, it turned out really hard to find a reputable data source with enough observation to make my results statistically significant so I had to make a few compromises. Once I obtained data with enough observations, I had to clean the data set and get rid of outliers as this would throw off my regression results and tests. Lastly, I ran a basic OLS regression, performed a few statistical tests on the data, and wrote a 20-page report on it. This was also my first time presenting a complex project to a big audience so I had to practice and get used to explaining my results to classmates and economics faculty.    
+
+##### Technical Skills:
+
+Excel, Gretl 
+
 <button id="project-button"><a href="THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA.pdf">Undergraduate Thesis</a></button>
 
 
