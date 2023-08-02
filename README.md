@@ -5,7 +5,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 
 
-<button id="btn-24"><a href="Resume-Andres Perez Martinez.pdf">Resume</a></button>
+<button id="project-button"><a href="Resume-Andres Perez Martinez.pdf">Resume</a></button>
 
 <button id="project-button"><a href="Use_Machine_Learning_to_Improve_Treatment_Targeting_in_Farmer_Training.pdf">Using Machine Learning to Improve Treatment Targeting in Farmer Training (Project Collaboration with the World Bank)</a></button>
 
@@ -16,13 +16,13 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 <button id="project-button"><a href="THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA.pdf">Undergraduate Thesis</a></button>
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Button Example</title>
   <style>
     /* Styles for the button with "project-button" id */
-    #project-button {
+    #project-button: hover {
       background-color: rgba(171, 235, 198);
       color: white;
       font-size: 16px;
@@ -31,7 +31,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
       border-radius: 5px;
       cursor: pointer;
     }
-
+    
     /* Additional styles for the button when hovered */
     #project-button:hover {
       background-color: darkblue;
