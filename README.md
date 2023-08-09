@@ -15,21 +15,21 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 **California Polytechnic State University, San Luis Obispo. Winter Quarter 2023 + Spring Quarter 2023**
 
-##### Project Description
+**Project Description**
 > Cal Poly masters program project collaboration with the World Bank IFC branch. A 6-month project where my team and I developed multiple machine learning models (Ridge, Random Forest, SVM, and Neural Network) across datasets from two different countries to compare ML models to improve treatment targeting in farmer training. Training ML models, data validation, data analysis, writing a research paper, and presenting results were some of the things we did.
 
-##### Personal Challenges
+**Personal Challenges**
 > This is the most challenging and rewarding project I've ever worked on. I was new to machine learning at this time so I was a bit worried at first, but thanks to my teammates, the world bank team, and my ability to adapt and learn things quickly I was able to involve myself in the project and contribute a lot. I used different software to clean the data and develop machine-learning models. For this project, patience and diligence proved essential as we often found ourselves returning to the beginning to re-clean the data. This was prompted by discovering new variables that could enhance our analysis or eliminating outdated ones. It took a lot of time to successfully complete this project, but the feeling of overcoming all the challenges and the fact that our results can be used to help farmers in developing countries is priceless.
 
-##### Technical Skills
+**Technical Skills**
 > Python, R Studio, Stata, Markdown, Git, GitHub, Excel, Microsoft Office
 
 
-##### Link to Research Paper
+**Link to Research Paper**
 
 <button id="project-button"><a href="Use_Machine_Learning_to_Improve_Treatment_Targeting_in_Farmer_Training.pdf">Using Machine Learning to Improve Treatment Targeting in Farmer Training (Project Collaboration with the World Bank)</a></button>
 
-##### Link to Machine Learning Models Analysis
+**Link to Machine Learning Models Analysis**
 <button id="project-button"><a href="ML_Analysis.html">Using Machine Learning to Improve Treatment Targeting in Farmer Training Code (Project Collaboration with the World Bank)</a></button>
 
 
