@@ -110,7 +110,16 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Want to connect? Feel free to reach out to me on LinkedIn or simply click the "Contact Me" link below.
+<html>
+<head>
+    <title>My LinkedIn</title>
+</head>
+<body>
+    <p>Want to connect? Feel free to <a href="https://www.linkedin.com/in/andres-p-b3923b225/">message me on LinkedIn</a> or simply click the "Contact Me" link below.</p>
+</body>
+</html>
+
+
 <html>
 <head>
   <title>Contact Me</title>
@@ -125,7 +134,6 @@ Want to connect? Feel free to reach out to me on LinkedIn or simply click the "C
 </body>
 </html>
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>My LinkedIn</title>
