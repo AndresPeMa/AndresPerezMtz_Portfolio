@@ -11,17 +11,27 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 <button id="project-button"><a href="ML_Analysis.html">Using Machine Learning to Improve Treatment Targeting in Farmer Training Code (Project Collaboration with the World Bank)</a></button>
 
+### COMPARING HOUSING PRICES IN SAN DIEGO AND SACRAMENTO COUNTIES
+
+**California Polytechnic State University, San Luis Obispo. Spring Quarter 2023**
+
+##### Project Descriptive
+
+> This group project consisted of gathering county housing data, running various time series tests on the data, and comparing results. We visualized the tests to present them to the class and provide them in our project report. We used FRED data.
+
+#### Personal Challenges
+> For this project I took part in mainly coding.
+
+
 <button id="project-button"><a href="House Prices in San Diego and Sacramento.pdf">Time Series Analysis Project</a></button>
 
 ### THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA
 
-<button id="project-button"><a href="THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA.pdf">Undergraduate Thesis</a></button>
-
-**California State University, Sacramento, spring semester 2022**
+**California State University, Sacramento. Spring semester 2022**
 
 ##### Project Description: 
 
-> This individual project consisted of picking a topic of our interest for which we needed to research previous literature, look for and gather enough data to run tests (OLS regression, statistical tests), analyze it, write a report, and present it to the Sacramento State economics faculty.
+> This individual project consisted of picking a topic of my interest for which we needed to research previous literature, look for and gather enough data to run tests (OLS regression, statistical tests), analyze it, write a report, and present it to the Sacramento State economics faculty.
 
 ##### Personal Challenges:
 
@@ -57,6 +67,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 </html>
 
 
+Get in touch with me.
 <html>
 <head>
   <title>Contact Me</title>
