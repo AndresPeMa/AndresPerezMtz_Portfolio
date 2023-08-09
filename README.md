@@ -131,7 +131,7 @@ Want to connect? Feel free to reach out to me on LinkedIn or simply click the "C
     <title>My LinkedIn</title>
 </head>
 <body>
-    <p>Interested in connecting? Feel free to <a href="https://www.linkedin.com/in/your-profile-url">message me on LinkedIn</a>.</p>
+    <p>Want to connect? Feel free to <a href="https://www.linkedin.com/in/andres-p-b3923b225/">message me on LinkedIn</a> or simply click the "Contact Me" link below.</p>
 </body>
 </html>
 
