@@ -17,7 +17,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 > This is the most challenging and rewarding project I've ever worked on. I was new to machine learning at this time so I was a bit worried at first, but thanks to my teammates, the world bank team, and my ability to adapt and learn things quickly I was able to involve myself in the project and contribute a lot. I used different software to clean the data and develop machine-learning models. For this project, patience and diligence proved essential as we often found ourselves returning to the beginning to re-clean the data. This was prompted by discovering new variables that could enhance our analysis or eliminating outdated ones. It took a lot of time to successfully complete this project, but the feeling of overcoming all the challenges and the fact that our results can be used to help farmers in developing countries is priceless.
 
 ##### Technical Skills
-> Python, R Studio, Stata, Markdown, Excel, Microsoft Office
+> Python, R Studio, Stata, Markdown, Git, GitHub, Excel, Microsoft Office
 
 
 ##### Link to Research Paper
