@@ -134,12 +134,5 @@ ________________________________________________________________________________
 </body>
 </html>
 
-<html>
-<head>
-    <title>My LinkedIn</title>
-</head>
-<body>
-    <p>Want to connect? Feel free to <a href="https://www.linkedin.com/in/andres-p-b3923b225/">message me on LinkedIn</a> or simply click the "Contact Me" link below.</p>
-</body>
-</html>
+
 
