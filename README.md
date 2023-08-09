@@ -25,11 +25,11 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 > Python, R Studio, Stata, Markdown, Git, GitHub, Excel, Microsoft Office
 
 
-##### **Link to Research Paper**
+**Link to Research Paper**
 
 <button id="project-button"><a href="Use_Machine_Learning_to_Improve_Treatment_Targeting_in_Farmer_Training.pdf">*Using Machine Learning to Improve Treatment Targeting in Farmer Training (Project Collaboration with the World Bank)*</a></button>
 
-##### **Link to Machine Learning Models Analysis**
+**Link to Machine Learning Models Analysis**
 <button id="project-button"><a href="ML_Analysis.html">*Using Machine Learning to Improve Treatment Targeting in Farmer Training Code (Project Collaboration with the World Bank)*</a></button>
 
 
@@ -42,19 +42,19 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 **California Polytechnic State University, San Luis Obispo. Spring Quarter 2023**
 
-##### Project Descriptive
+**Project Descriptive**
 
 > This group project consisted of gathering county housing data, running various time series tests on the data, and comparing results. We visualized the tests to present them to the class and provide them in our project report. We used FRED data.
 
-##### Personal Challenges
+**Personal Challenges**
 
 > Although I participated in every aspect of the project, my main role was data gathering, data cleaning, and analysis. This was my first "real test" doing data validation, I had to gather and prepare the data to run financial tests on it. Without much guidance, I worked together with my teammates to streamline the process of sharing my code for replication and visualizations for presentation. Working with a group I understood that communication is key, breaking tasks into parts is an efficient way to get the work done, and it is rewarding to have a group you can trust.
 
-##### Technical Skills
+**Technical Skills**
 
 > R-Studio, Python, Excel, Microsoft Office
 
-##### Link to Project
+**Link to Project**
 
 <button id="project-button"><a href="House Prices in San Diego and Sacramento.pdf">Time Series Analysis Project</a></button>
 
@@ -68,19 +68,19 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 **California State University, Sacramento. Spring semester 2022**
 
-##### Project Description: 
+**Project Description** 
 
 > This individual project consisted of picking a topic of my interest for which we needed to research previous literature, look for and gather enough data to run tests (OLS regression, statistical tests), analyze it, write a report, and present it to the Sacramento State economics faculty.
 
-##### Personal Challenges:
+**Personal Challenges**
 
 > This was the very first big project I had to do individually. To my surprise, it turned out hard to find a reputable data source with enough observation to make my results statistically significant so I had to make a few compromises. Once I obtained data with enough observations, I had to clean the data set and get rid of outliers as this would throw off my regression results and tests. Lastly, I ran a basic OLS regression, performed a few statistical tests on the data, and wrote a 20-page report on it. This was also my first time presenting a complex project to a big audience so I had to practice and get used to explaining my results to classmates and economics faculty.    
 
-##### Technical Skills:
+**Technical Skills**
 
 > Excel, Gretl 
 
-##### Link to Project
+**Link to Project**
 
 <button id="project-button"><a href="THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA.pdf">Undergraduate Thesis</a></button>
 
@@ -110,7 +110,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Get in touch with me.
+Want to connect? Feel free to reach out to me on LinkedIn or simply click the "Contact Me" link below.
 <html>
 <head>
   <title>Contact Me</title>
@@ -124,3 +124,14 @@ Get in touch with me.
   </div>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My LinkedIn</title>
+</head>
+<body>
+    <p>Interested in connecting? Feel free to <a href="https://www.linkedin.com/in/your-profile-url">message me on LinkedIn</a>.</p>
+</body>
+</html>
+
