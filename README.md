@@ -27,10 +27,10 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 **Link to Research Paper**
 
-<button id="project-button"><a href="Use_Machine_Learning_to_Improve_Treatment_Targeting_in_Farmer_Training.pdf">Using Machine Learning to Improve Treatment Targeting in Farmer Training (Project Collaboration with the World Bank)</a></button>
+<button id="project-button"><a href="Use_Machine_Learning_to_Improve_Treatment_Targeting_in_Farmer_Training.pdf">*Using Machine Learning to Improve Treatment Targeting in Farmer Training (Project Collaboration with the World Bank)*</a></button>
 
 **Link to Machine Learning Models Analysis**
-<button id="project-button"><a href="ML_Analysis.html">Using Machine Learning to Improve Treatment Targeting in Farmer Training Code (Project Collaboration with the World Bank)</a></button>
+<button id="project-button"><a href="ML_Analysis.html">*Using Machine Learning to Improve Treatment Targeting in Farmer Training Code (Project Collaboration with the World Bank)*</a></button>
 
 
 
