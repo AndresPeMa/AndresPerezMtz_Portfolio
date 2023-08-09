@@ -13,7 +13,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 ### USING MACHINE LEARNING TO IMPROVE TREATMENT TARGETING IN FARMER TRAINING
 
-**California Polytechnic State University, San Luis Obispo. Winter 2023 + Spring 2023**
+**California Polytechnic State University, San Luis Obispo. Winter Quarter 2023 + Spring Quarter 2023**
 
 ##### Project Description
 > Cal Poly masters program project collaboration with the World Bank IFC branch. A 6-month project where my team and I developed multiple machine learning models (Ridge, Random Forest, SVM, and Neural Network) across datasets from two different countries to compare ML models to improve treatment targeting in farmer training. Training ML models, data validation, data analysis, writing a research paper, and presenting results were some of the things we did.
