@@ -6,7 +6,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 <button id="project-button"><a href="Resume-Andres Perez Martinez.pdf">Resume</a></button>
 
-</br>
+<br> </br>
 
 ### USING MACHINE LEARNING TO IMPROVE TREATMENT TARGETING IN FARMER TRAINING
 
