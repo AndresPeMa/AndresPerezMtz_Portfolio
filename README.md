@@ -20,10 +20,15 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 > This group project consisted of gathering county housing data, running various time series tests on the data, and comparing results. We visualized the tests to present them to the class and provide them in our project report. We used FRED data.
 
 #### Personal Challenges
-> For this project I took part in mainly coding.
 
+> Although I participated in every aspect of the project, my main role was data gathering, data cleaning, and analysis. This was my first "real test" doing data validation, I had to gather and prepare the data to run financial tests on it. Without much guidance, I worked together with my teammates to streamline the process of sharing my code for replication and visualizations for presentation. Working with a group I understood that communication is key, breaking tasks into parts is an efficient way to get the work done, and it is rewarding to have a group you can trust.
+
+#### Technical Skills
+
+> R-Studio, Python, Excel, Microsoft Office
 
 <button id="project-button"><a href="House Prices in San Diego and Sacramento.pdf">Time Series Analysis Project</a></button>
+
 
 ### THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA
 
