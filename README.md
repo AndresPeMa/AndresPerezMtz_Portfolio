@@ -6,7 +6,10 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 <button id="project-button"><a href="Resume-Andres Perez Martinez.pdf">Resume</a></button>
 
-<br> </br>
+
+
+
+
 
 ### USING MACHINE LEARNING TO IMPROVE TREATMENT TARGETING IN FARMER TRAINING
 
@@ -29,7 +32,11 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 ##### Link to Machine Learning Models Analysis
 <button id="project-button"><a href="ML_Analysis.html">Using Machine Learning to Improve Treatment Targeting in Farmer Training Code (Project Collaboration with the World Bank)</a></button>
 
-</br>
+
+
+
+
+
 
 ### COMPARING HOUSING PRICES IN SAN DIEGO AND SACRAMENTO COUNTIES
 
