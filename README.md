@@ -27,6 +27,8 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 > R-Studio, Python, Excel, Microsoft Office
 
+#### Link 
+
 <button id="project-button"><a href="House Prices in San Diego and Sacramento.pdf">Time Series Analysis Project</a></button>
 
 
@@ -45,6 +47,8 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 ##### Technical Skills:
 
 > Excel, Gretl 
+
+#### Link:
 
 <button id="project-button"><a href="THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA.pdf">Undergraduate Thesis</a></button>
 
