@@ -11,7 +11,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### USING MACHINE LEARNING TO IMPROVE TREATMENT TARGETING IN FARMER TRAINING
+### 1.- USING MACHINE LEARNING TO IMPROVE TREATMENT TARGETING IN FARMER TRAINING
 
 **California Polytechnic State University, San Luis Obispo. Winter Quarter 2023 + Spring Quarter 2023**
 
@@ -38,7 +38,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 
 
-### COMPARING HOUSING PRICES IN SAN DIEGO AND SACRAMENTO COUNTIES
+### 2.- COMPARING HOUSING PRICES IN SAN DIEGO AND SACRAMENTO COUNTIES
 
 **California Polytechnic State University, San Luis Obispo. Spring Quarter 2023**
 
@@ -64,7 +64,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 
 
-### THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA
+### 3.- THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA
 
 **California State University, Sacramento. Spring semester 2022**
 
