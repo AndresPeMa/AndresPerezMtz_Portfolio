@@ -110,24 +110,12 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<html>
-<head>
-    <title>My LinkedIn</title>
-</head>
+**My LinkedIn**
+> Want to connect? Feel free to <a href="https://www.linkedin.com/in/andres-p-b3923b225/">message me on LinkedIn</a> or simply click the "Contact Me" link below.
+
+
+
 <body>
-    <p>Want to connect? Feel free to <a href="https://www.linkedin.com/in/andres-p-b3923b225/">message me on LinkedIn</a> or simply click the "Contact Me" link below.</p>
-</body>
-</html>
-
-
-<html>
-<head>
-  <title>Contact Me</title>
-</head>
-<body>
-  <!-- Your page content goes here -->
-
-  <!-- Button at the bottom of the page -->
   <div class="contact-button">
     <a href="mailto:andy._992010@hotmail.com">Contact Me</a>
   </div>
