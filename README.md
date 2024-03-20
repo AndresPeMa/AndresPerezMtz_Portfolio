@@ -86,7 +86,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 
 
-  <title>Button Example</title>
+  
   <style>
     /* Styles for the button with "project-button" id */
     #project-button: hover {
