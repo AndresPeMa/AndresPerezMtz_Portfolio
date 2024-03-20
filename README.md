@@ -87,6 +87,9 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 
   
+<html>
+<head>
+  <title>Button Example</title>
   <style>
     /* Styles for the button with "project-button" id */
     #project-button: hover {
@@ -103,6 +106,8 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
       background-color: rgba(171, 235, 198);
     }
   </style>
+</head>
+</html>
 
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
