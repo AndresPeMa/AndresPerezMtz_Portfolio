@@ -16,13 +16,13 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 **California Polytechnic State University, San Luis Obispo. Winter Quarter 2023 + Spring Quarter 2023**
 
 **Project Description**
-> Cal Poly's Masters of Science in Quantitative Economics program project collaboration with the World Bank IFC branch. A 6-month long project where my team and I worked on analyzing farming techniques in developing countries and developed multiple machine learning models (Ridge, Random Forest, SVM, and Neural Network). Using datasets from two developing countries we compared our machine learning models to improve treatment targeting in farmer training and see the lasting effects of new training techniques. Training machine learning models, data validation, data analysis, writing a research paper, and presenting results were some of the tasks we did.
+> Cal Poly's Masters of Science in Quantitative Economics program project collaboration with the World Bank IFC branch. A 6-month long project where my team and I worked on analyzing farming techniques in Cambodia and Ethiopia and developed multiple machine learning models (Ridge, Random Forest, SVM, and Neural Network) to compare results between the countries, improve treatment targeting in farmer training, and see the lasting effects of new training techniques. Overall, we trained machine learning models, validated, visualized, and analyzed data, wrote a research paper, and presented our results.
 
 **Personal Challenges**
-> This is the most challenging and rewarding project I've ever worked on. I was new to machine learning at this time, so I was a bit worried at first, but thanks to my teammates, the World Bank team, and my ability to adapt and learn things quickly, I was able to involve myself in the project and contribute a lot. I used different software to clean the data and develop machine-learning models. For this project, patience and diligence proved essential as we often found ourselves returning to the beginning to re-clean the data. This was prompted by discovering new variables that could enhance our analysis or eliminate outdated ones. It took a lot of time to complete this project, but the feeling of overcoming all the challenges and the fact that our results can be used to help farmers in developing countries is priceless.
+> This was the most challenging and rewarding project I worked on during my education. I was new to machine learning at this time, so I was a bit worried at first, but thanks to my teammates, the World Bank team, and my ability to adapt and learn things quickly, I was able to involve myself in the project and contribute. I used Python, R, and Stata to clean the data and develop machine-learning models. For this project, patience and diligence proved essential as we often found ourselves going back to the drawing board for a new direction. This was prompted by discovering new variables that could enhance our analysis or eliminate outdated ones. It took a lot of time to complete this project, but the feeling of overcoming all the challenges and the fact that our results can be used to help farmers in developing countries is priceless.
 
 **Technical Skills**
-> Python, R Studio, Stata, Markdown, Git, GitHub, Excel, Microsoft Office
+> Python, R Studio, Stata, Markdown, Git, GitHub, Excel, LaTeX, Microsoft Office
 
 
 **Link to Research Paper**
@@ -48,7 +48,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 **Personal Challenges**
 
-> Although I participated in every aspect of the project, my main role was data gathering, data cleaning, and analysis. This was my first "real test" doing data validation. I had to gather and prepare the data to run time series tests on it. Without much guidance, I worked together with my teammates to streamline the process of sharing my code for replication and visualizations for presentation. Working with a group, I understood that communication is key, breaking tasks into parts is an efficient way to get the work done, and it is rewarding to have a group you can trust.
+> Although I participated in every aspect of the project, my main role was data gathering, data cleaning, and analysis. This was my first "real test" doing data validation. I had to gather and prepare the data to run time series tests on it. Without much guidance, I worked together with my colleagues to streamline the process of sharing my code for replication and visualization. Working with a group, I understood that communication is key, breaking tasks into parts is an efficient way to get the work done, and it is rewarding to have a group you can trust.
 
 **Technical Skills**
 
