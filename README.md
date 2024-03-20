@@ -85,8 +85,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 <button id="project-button"><a href="THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA.pdf">Undergraduate Thesis</a></button>
 
 
-<html>
-<head>
+
   <title>Button Example</title>
   <style>
     /* Styles for the button with "project-button" id */
@@ -104,8 +103,7 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
       background-color: rgba(171, 235, 198);
     }
   </style>
-</head>
-</html>
+
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
