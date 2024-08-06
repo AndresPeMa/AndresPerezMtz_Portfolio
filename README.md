@@ -35,17 +35,13 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 
 
-### 2.- COMPARING HOUSING PRICES IN SAN DIEGO AND SACRAMENTO COUNTIES
+### 2.- COMPARATIVE ANALYSIS OF RESIDENTIAL PROPERTY PRICES IN SAN DIEGO AND SACRAMENTO COUNTIES
 
 **California Polytechnic State University, San Luis Obispo. Spring Quarter 2023**
 
 **Description**
 
 > Group project which consisted of gathering housing price data in two different California counties (San Diego and Sacramento), running various time series tests on the data, and comparing results. We then visualized the data and tests to present it to the class and provide them in our project report.
-
-**Challenges**
-
-> Although I participated in every aspect of the project, my main role was data gathering, data cleaning, and analysis. This was my first "real test" doing data validation. I had to gather and prepare the data to run time series tests on it. Without much guidance, I worked together with my colleagues to streamline the process of sharing my code for replication and visualization. Working with a group, I understood that communication is key, breaking tasks into parts is an efficient way to get the work done, and it is rewarding to have a group you can trust.
 
 **Technical Skills**
 
