@@ -18,9 +18,6 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 **Description**
 > Cal Poly's Masters of Science in Quantitative Economics program project collaboration with the World Bank IFC branch. A 6-month long project where my team and I worked on analyzing farming techniques in Cambodia and Ethiopia and developed multiple machine learning models (Ridge, Random Forest, SVM, and Neural Network) to compare results between the countries, improve treatment targeting in farmer training, and see the lasting effects of new training techniques.
 
-**Challenges**
-> This was the most challenging and rewarding project I've worked on during my education. I was new to machine learning at this time, so I was a bit worried at first, but thanks to my teammates, the World Bank team, and my ability to adapt and learn things quickly, I was able to involve myself in the project and contribute. I used Python, R, and Stata to clean the data and develop machine-learning models. For this project, patience and diligence proved essential as we often found ourselves going back to the drawing board for a new direction. This was prompted by discovering new variables that could enhance our analysis or eliminate outdated ones. It took a lot of time to complete this project, but the feeling of overcoming all the challenges and the fact that our results can be used to help farmers in developing countries is priceless.
-
 **Technical Skills**
 > Python, R Studio, Stata, Markdown, Git, GitHub, Excel, LaTeX, Microsoft Office
 
