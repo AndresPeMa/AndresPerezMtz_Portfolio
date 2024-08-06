@@ -63,12 +63,8 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 **Description** 
 
-> This individual project consisted of picking a topic of my interest for which we needed to research previous literature, look for and gather enough data to run tests (OLS regression, statistical tests), analyze it, write a report, and present it to the Sacramento State economics faculty.
-
-**Challenges**
-
-> This was the very first big project I had to do individually. To my surprise, finding a reputable data source with enough observation to make my results statistically significant was not easy, so I had to make a few compromises. Once I obtained data with enough observations, I had to clean the data set and get rid of outliers, as this would throw off my regression results and tests. Lastly, I ran a basic OLS regression, performed a few statistical tests on the data, and wrote a 20-page report on my results. This was also my first time presenting a complex project to a big audience, so I had to practice and get used to explaining my results to classmates and economics faculty.    
-
+> This individual project involved selecting a topic of personal interest and conducting comprehensive research on existing literature. The process included collecting and compiling sufficient data to perform various statistical tests such as Ordinary Least Squares (OLS) regression, correlation analysis, and heteroskedasticity tests, among others. The data was then analyzed, and a detailed report was written and presented to the Sacramento State economics faculty.
+ 
 **Technical Skills**
 
 > Excel, Gretl 
