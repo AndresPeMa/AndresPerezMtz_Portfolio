@@ -22,12 +22,10 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 > Python, R Studio, Stata, Markdown, Git, GitHub, Excel, LaTeX, Microsoft Office
 
 
-**Research Paper**
 
 <button id="project-button"><a href="Use_Machine_Learning_to_Improve_Treatment_Targeting_in_Farmer_Training.pdf">**Research Paper**</a></button>
 
-**Machine Learning Models + Analysis**
-<button id="project-button"><a href="ML_Analysis.html">*Using Machine Learning to Improve Treatment Targeting in Farmer Training Code (Project Collaboration with the World Bank)*</a></button>
+<button id="project-button"><a href="ML_Analysis.html">**Machine Learning Models + Analysis**</a></button>
 
 
 
@@ -47,9 +45,9 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 > R-Studio, Python, Excel, Microsoft Office
 
-**Project**
 
-<button id="project-button"><a href="House Prices in San Diego and Sacramento.pdf">Time Series Analysis Project</a></button>
+
+<button id="project-button"><a href="House Prices in San Diego and Sacramento.pdf">**Time Series Analysis Project**</a></button>
 
 
 
@@ -69,9 +67,9 @@ Welcome to my Portfolio! This webpage showcases a collection of my data analytic
 
 > Excel, Gretl 
 
-**Project**
 
-<button id="project-button"><a href="THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA.pdf">Undergraduate Thesis</a></button>
+
+<button id="project-button"><a href="THE ECONOMICS OF POPULATION GROWTH AND IMMIGRATION ON UNEMPLOYMENT RATE IN CALIFORNIA.pdf">**Undergraduate Thesis**</a></button>
 
 
 
